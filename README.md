@@ -1,7 +1,7 @@
 
 
 <div style="text-align: center; margin: 0 auto;">
-  <center><img src="https://cdn.discordapp.com/attachments/642548226293235732/700720299204935731/fortnitelogo.webp" width="auto" /></center></div>
+  <center><img src="https://cdn.discordapp.com/attachments/642548226293235732/700720299204935731/fortnitelogo.webp" width="auto"/><img src="https://cdn.discordapp.com/attachments/642548226293235732/700721041198022656/clip.png" width="auto"/></center></div>
 <div><center><a href="https://nodei.co/npm/discordclip/"><img src="https://nodei.co/npm-dl/discordclip.png"></a></div>
 
 
