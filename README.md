@@ -24,3 +24,5 @@ Co-founder e Colaborador - `Sprintermax#0084`
 ## Sobre a Documentação
 
 Como dito antes, as explicações de sistemas, databases, comandos e versões estarão armazenadas e disponíveis aqui, para isso iremos dividi-lás em pastas com o intuito de organização e melhor entendimento.
+
+**Lembrete:** Para utilizar alguns desses comandos, você precisa possuir algumas permissões dentro do servidor Oficial nas quais variam entre: `MANAGE_MESSAGES` a `ADMINISTRATOR`, todas essas serão tagadas juntamente a cada comando, não se preocupe. Essa documentação foi feita exclusivamente a membros da Equipe Moderativa de servidores Fortnite oficiais, com o intuito de orientá-los e não a membros comums.  
