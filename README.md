@@ -15,13 +15,13 @@ Todas as explicações de `sistemas, databases, comandos, versões` estarão arm
 - Utlização da Cloud Application Platform(VPS) [Herokuapp](https://www.heroku.com/)
 - Codada no editor de código [Visual Studio Code](https://code.visualstudio.com/)
 
-## Sobre os Fundadores
+## Sobre os fundadores
 Founder - `EpicDavedA.#9423`
-- "teste"
+- "teste"/
 Co-founder e Colaborador - `Sprintermax#0084`
 - "teste"
 
-## Sobre a Documentação
+## Sobre a documentação
 
 Como dito antes, as explicações de sistemas, databases, comandos e versões estarão armazenadas e disponíveis aqui, para isso iremos dividi-lás em pastas com o intuito de organização e melhor entendimento.
 
