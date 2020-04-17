@@ -17,7 +17,8 @@ Todas as explicações de `sistemas, databases, comandos, versões` estarão arm
 
 ## Sobre os fundadores
 Founder - `EpicDavedA.#9423`
-- "teste"/
+- "teste"
+
 Co-founder e Colaborador - `Sprintermax#0084`
 - "teste"
 
