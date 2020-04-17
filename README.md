@@ -17,8 +17,10 @@ Todas as explicações de `sistemas, databases, comandos, versões` estarão arm
 
 ## Sobre os Fundadores
 Founder - `EpicDavedA.#9423`
-- ""
+- "teste"
 Co-founder e Colaborador - `Sprintermax#0084`
-- ""
+- "teste"
 
 ## Sobre a Documentação
+
+Como dito antes, as explicações de sistemas, databases, comandos e versões estarão armazenadas e disponíveis aqui, para isso iremos dividi-lás em pastas com o intuito de organização e melhor entendimento.
