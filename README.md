@@ -7,13 +7,14 @@
 
 
 ## Sobre o projeto
-Clip é uma aplicação Discord privada feita em 2019 para o servidor *Oficial Fortnite Brasil & Portugal(OFBP)* com o objetivo e intuito de ser um bot focado em comandos de interação e diversão. O servidor pode ser acessado [aqui](https://discord.gg/fornitebr-pt).
+Clip é uma aplicação privada feita com [discord.js](https://discord.js.org/#/docs/main/stable/class/Guild) em 18 de outubro de 2019 com o objetivo e intuito de ser um bot de interação e diversão do servidor brasileiro Oficial de Fortnite, feito pela Epic Games INC. e que pode ser acessado [aqui.](https://discord.gg/fortnitebr-pt)
 
-- Feita em 100% Node.js
+- Feita em 100% [Node.js](https://nodejs.org/en/)
 - Hosteada em herokuapp.com
 - Visual Studio Code
 
 ## Sobre os Fundadores
-O fundador da aplicação e do projeto original é `EpicDavedA.#9423(Moderador/Admin do OFBP)` juntamente com o colaborador `Sprintermax#0084(Moderador/colaborator do OFBP).`
+Founder - `EpicDavedA.#9423`
+Co-founder e Colaborador - `Sprintermax#0084`
 
 ## Sobre a Documentação
